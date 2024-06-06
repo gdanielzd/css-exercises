@@ -1,0 +1,19 @@
+.Number1 {
+    background-color: rgb(249, 203, 211);
+    font-family: Verdana, "DejaVu Sand", sans-serif;
+}
+
+#Number2 {
+    color: hsl(229, 100%, 50%);
+    font-size: 36px;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#Number4 {
+    background-color: #aaffaa;
+    font-size: 24px;
+    font-weight: bold;
+}
